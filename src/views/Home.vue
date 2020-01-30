@@ -10,8 +10,7 @@
                 v-for="n in 12"
                 :key="n"
                 class="d-flex child-flex"
-                cols="4"
-            >
+                cols="4">
                 <TimeZoneCard></TimeZoneCard>
             </v-col>
         </v-row>
